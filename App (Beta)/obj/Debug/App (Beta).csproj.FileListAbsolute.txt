@@ -50,10 +50,40 @@ D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.GenerateReso
 D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.CoreCompileInputs.cache
 D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App (Beta).exe
 D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App (Beta).pdb
-D:\Programming\C#\App (Beta)\App (Beta)\bin\Debug\Interop.WMPLib.dll
-D:\Programming\C#\App (Beta)\App (Beta)\bin\Debug\AxInterop.WMPLib.dll
-D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\Interop.WMPLib.dll
-D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\AxInterop.WMPLib.dll
-D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.ResolveComReference.cache
 D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Easy.resources
 D:\Programming\C#\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Change_password.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\bin\Debug\App (Beta).exe.config
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\bin\Debug\App (Beta).exe
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\bin\Debug\App (Beta).pdb
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).csprojAssemblyReference.cache
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Hard.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Normal.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Easy.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Change_password.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Form1.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Profile.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Properties.Resources.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.SignUp.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Sign_in.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Welcome.resources
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.GenerateResource.cache
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.CoreCompileInputs.cache
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).exe
+D:\Programming\C, C#, C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).pdb
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\bin\Debug\App (Beta).exe.config
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\bin\Debug\App (Beta).exe
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\bin\Debug\App (Beta).pdb
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).csprojAssemblyReference.cache
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Hard.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Normal.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Easy.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Change_password.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Form1.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Profile.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Properties.Resources.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.SignUp.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Sign_in.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Welcome.resources
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.GenerateResource.cache
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).exe
+D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).pdb

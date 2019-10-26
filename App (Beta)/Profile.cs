@@ -24,7 +24,7 @@ namespace App__Beta_
         }
         //public event   EventHandler DangXuat;
 
-        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
         private void ketnoicsdl()
         {
             conn.Open(); // Ket noi csdl
@@ -49,7 +49,7 @@ namespace App__Beta_
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 string tk = textPlayerName.Text;
@@ -98,7 +98,7 @@ namespace App__Beta_
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 string tk = textTenUser.Text;

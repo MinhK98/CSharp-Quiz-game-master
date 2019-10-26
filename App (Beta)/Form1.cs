@@ -48,7 +48,7 @@ namespace App__Beta_
         private void phiênBảnToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
-            MessageBox.Show("Version 0.2.5 (Early Access)","Phiên bản",MessageBoxButtons.OK,MessageBoxIcon.Information );
+            MessageBox.Show("Version 0.2.5","Phiên bản",MessageBoxButtons.OK,MessageBoxIcon.Information );
         }
 
         private void cáchChơiToolStripMenuItem_Click(object sender, EventArgs e)

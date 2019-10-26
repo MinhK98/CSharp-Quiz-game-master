@@ -20,7 +20,7 @@ namespace App__Beta_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 string tk2 = textUserNew.Text;

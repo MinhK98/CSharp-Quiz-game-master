@@ -23,7 +23,7 @@ namespace App__Beta_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 conn.Open();
@@ -97,7 +97,7 @@ namespace App__Beta_
 
         private void textTenUser_KeyPress(object sender, KeyPressEventArgs e)
         {
-            e.Handled = e.KeyChar == ' ';
+            e.Handled = e.KeyChar == ' '; 
         }
 
         private void textMatKhau_KeyPress(object sender, KeyPressEventArgs e)

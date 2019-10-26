@@ -30,7 +30,7 @@ namespace App__Beta_
             timer1.Start();
 
             label13.Visible = false;
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 conn.Open(); // Kết nối           
@@ -76,7 +76,7 @@ namespace App__Beta_
         {
             timer1.Stop();
 
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 button1.Visible = true;
@@ -148,7 +148,7 @@ namespace App__Beta_
 
         private void button3_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-P0ROQPB\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-92CRSJ1\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 string mk = label8.Text;
