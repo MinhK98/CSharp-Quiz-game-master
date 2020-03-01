@@ -23,7 +23,7 @@ namespace App__Beta_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-V267KUV\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-DLPCKO6\SQLEXPRESS;Initial Catalog=QUIZ;Integrated Security=True");
             try
             {
                 conn.Open();

@@ -87,3 +87,20 @@ D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App__Bet
 D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.GenerateResource.cache
 D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).exe
 D:\Programming\C# and C++\Mini Projects\App (Beta)\App (Beta)\obj\Debug\App (Beta).pdb
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\bin\Debug\App (Beta).exe.config
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\bin\Debug\App (Beta).exe
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\bin\Debug\App (Beta).pdb
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App (Beta).csprojAssemblyReference.cache
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Hard.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Normal.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Easy.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Change_password.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Form1.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Profile.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Properties.Resources.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.SignUp.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Sign_in.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App__Beta_.Welcome.resources
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App (Beta).csproj.GenerateResource.cache
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App (Beta).exe
+D:\GitHub\CSharp-Quiz-game-master\App (Beta)\App (Beta)\obj\Debug\App (Beta).pdb
